@@ -3,6 +3,14 @@
 	url = https://github.com/uNetworking/uSockets.git
 	
 [submodule "uWebSockets"]
-    path = uWebSockets
-    url = https://github.com/uNetworking/uWebSockets
+	path = uWebSockets
+	url = https://github.com/uNetworking/uWebSockets
+
+[submodule "libpqxx"]
+	path = pqxx
+	url = https://github.com/jtv/libpqxx.git
+
+[submodule "RapidJSON"]
+	path = RapidJSON
+	url = https://github.com/Tencent/rapidjson.git
 
